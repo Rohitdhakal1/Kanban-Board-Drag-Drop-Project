@@ -38,6 +38,9 @@ CSS3
 
 JavaScript (Vanilla)
 
+<img width="1920" height="912" alt="screencapture-127-0-0-1-5500-index-html-2025-08-31-09_32_35" src="https://github.com/user-attachments/assets/cb7849b9-33bd-4458-9b8f-6333ede4ed80" />
+
+
 📖 Learning Goals
 
 Understand the basics of the Drag and Drop API (dragstart, dragover, drop, etc.).
